@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/funfacts/static/css/main.3c884e18.chunk.css",
+    "main.js": "/funfacts/static/js/main.e52ad259.chunk.js",
+    "main.js.map": "/funfacts/static/js/main.e52ad259.chunk.js.map",
+    "runtime-main.js": "/funfacts/static/js/runtime-main.b17cff67.js",
+    "runtime-main.js.map": "/funfacts/static/js/runtime-main.b17cff67.js.map",
+    "static/js/2.84c0d34c.chunk.js": "/funfacts/static/js/2.84c0d34c.chunk.js",
+    "static/js/2.84c0d34c.chunk.js.map": "/funfacts/static/js/2.84c0d34c.chunk.js.map",
+    "static/js/3.a1ea92f7.chunk.js": "/funfacts/static/js/3.a1ea92f7.chunk.js",
+    "static/js/3.a1ea92f7.chunk.js.map": "/funfacts/static/js/3.a1ea92f7.chunk.js.map",
+    "index.html": "/funfacts/index.html",
+    "static/css/main.3c884e18.chunk.css.map": "/funfacts/static/css/main.3c884e18.chunk.css.map",
+    "static/js/2.84c0d34c.chunk.js.LICENSE.txt": "/funfacts/static/js/2.84c0d34c.chunk.js.LICENSE.txt",
+    "static/media/brazil.c1296f1d.png": "/funfacts/static/media/brazil.c1296f1d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b17cff67.js",
+    "static/js/2.84c0d34c.chunk.js",
+    "static/css/main.3c884e18.chunk.css",
+    "static/js/main.e52ad259.chunk.js"
+  ]
+}
